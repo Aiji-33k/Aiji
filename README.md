@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Aiji !
+# 👋 Salut, moi c'est cypril !
 
 > Petit développeur qui crée des pages web pour le plaisir.
 
