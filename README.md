@@ -15,4 +15,4 @@
 
 ---
 
-✨ *N'hésitez pas à jeter un œil à mes dépôts !*
+✨ *N'hésitez pas à jeter un œil à mes programmes !*
